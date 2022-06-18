@@ -1,6 +1,9 @@
 # dependencies
 /node_modules
 
+# Log
+log.txt
+
 # IDE
 .idea
 .vscode
