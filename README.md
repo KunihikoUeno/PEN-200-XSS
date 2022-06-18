@@ -41,7 +41,7 @@ Secondly, inject the following code in the target system.
 </script>
 ```
 
-The example above sends cookie to the server and logs it in the text file `log.txt` in the root directory.
+The example above sends cookies to the server and logs it in the text file `log.txt` in the root directory.
 
 If you need a value from local storage, replace `document.cookie` with `localStorage.getItem("[key_name]")`.
 
