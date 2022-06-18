@@ -1,0 +1,11 @@
+{
+  "name": "pen-200-xss",
+  "version": "1.0.0",
+  "description": "XSS server for PEN-200 machines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
