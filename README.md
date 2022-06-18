@@ -10,7 +10,7 @@ sudo apt install nodejs
 sudo apt install npm
 ```
 
-After the installation, make sure to run the following commands to make sure the installation is completed.
+After the installation, make sure to run the following commands to see the installation is completed.
 
 ```bash
 node -v
